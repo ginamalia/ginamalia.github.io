@@ -16,8 +16,10 @@ section {
 }
 
 .gallery-img {
-  width: 90%;
-  padding-left: 3rem;
+  width: 80%;
+  margin-left: 3rem;
+  border-radius: 4%;
+  position: center;
 }
 
 #gallery .row > * {
